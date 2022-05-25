@@ -19,3 +19,7 @@ Uma Rest API usando Flask que recebe através do método GET um peso e uma altur
 - Acesse o diretório da aplicação via terminal e execute o seguinte comando.
 
 ```python3 app.py runserver```
+
+### Acessar de forma online
+
+http://flask-api-imc.herokuapp.com/imc/peso=58/altura=1.60
